@@ -1,24 +1,24 @@
 {
   "settings": {
     "name": "teem-ex",
-    "currentPage": "page1.html",
+    "currentPage": "teem-ex01",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 5,
+    "uniqCompNum": 8,
     "versionPublish": "3.10.4",
     "favicon": "",
     "noImageResize": ""
   },
   "pages": {
-    "index.html": {
+    "teem-ex01": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "cghfjgjk",
+        "meta_descr": "fhgfhj hjgjhvhn",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -88,7 +88,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-2210.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-224.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -130,7 +130,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-2210.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-224.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -172,7 +172,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-2210.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-224.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -191,19 +191,6 @@
           "title": "<span style=\"font-family: inherit;\">Hot HD Porn Movies Mobile XXX</span><br><br>",
           "text": "Free Pussy Videos, Porn Sex, Hd Porn Videos Free,<br>Sex Every Day New HD Videos 100% Free<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://goo.gl/V0arFg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET STARTED</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://goo.gl/V0arFg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE VIDEOS</a>"
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {},
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-4",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://goo.gl/V0arFg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET STARTED</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">MORE VIDEOS</a>"
         }
       ]
     }
